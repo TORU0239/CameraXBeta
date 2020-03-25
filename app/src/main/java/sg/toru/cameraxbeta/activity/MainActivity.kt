@@ -1,7 +1,8 @@
-package sg.toru.cameraxbeta
+package sg.toru.cameraxbeta.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import sg.toru.cameraxbeta.R
 
 class MainActivity : AppCompatActivity() {
 
